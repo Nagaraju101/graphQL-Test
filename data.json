@@ -1,0 +1,58 @@
+{
+  "customers": [
+    {
+      "id": "001",
+      "name": "Naga",
+      "email": "naga@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "002",
+      "name": "sanju",
+      "email": "sanju@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "003",
+      "name": "lucky",
+      "email": "lucky@gmail.com",
+      "age": 12
+    },
+    {
+      "id": "004",
+      "name": "avi",
+      "email": "avi@gmail.com",
+      "age": 2
+    },
+    {
+      "id": "005",
+      "name": "chinna",
+      "email": "chinna@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "006",
+      "name": "Ramesh",
+      "email": "ramesh@gmail.com",
+      "age": 37
+    },
+    {
+      "id": "007",
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "age": 25
+    },
+    {
+      "id": "008",
+      "name": "dileep",
+      "email": "dileep@gmail.com",
+      "age": 28
+    },
+    {
+      "name": "SriRam",
+      "email": "sriram@gmail.com",
+      "age": 19,
+      "id": "YN3sN8u"
+    }
+  ]
+}
