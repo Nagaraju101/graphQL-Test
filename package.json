@@ -4,7 +4,8 @@
   "description": "",
   "main": "MIT",
   "scripts": {
-    "dev:server": "nodemon server.js"
+    "dev:server": "nodemon server.js",
+    "json:server": "json.server --watch data.json"
   },
   "author": "naga",
   "license": "MIT",
